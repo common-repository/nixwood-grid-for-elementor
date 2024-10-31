@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" fill="#EC3E41"/>
+<rect width="51" height="32" rx="1.4" transform="matrix(1 0 0 -1 14 244)" fill="white"/>
+<rect width="52" height="32" rx="1.4" transform="matrix(1 0 0 -1 73 244)" fill="white"/>
+<rect width="110" height="32" rx="1.4" transform="matrix(1 0 0 -1 132 244)" fill="white"/>
+<rect width="51" height="32" rx="1.4" transform="matrix(1 0 0 -1 14 204)" fill="white"/>
+<rect width="51" height="32" rx="1.4" transform="matrix(1 0 0 -1 132 204)" fill="white"/>
+<rect width="51" height="32" rx="1.4" transform="matrix(1 0 0 -1 191 204)" fill="white"/>
+<rect width="52" height="32" rx="1.4" transform="matrix(1 0 0 -1 73 204)" fill="white"/>
+<rect width="110" height="31" rx="1.4" transform="matrix(1 0 0 -1 132 84)" fill="white"/>
+<rect width="71" height="32" rx="1.4" transform="matrix(1 0 0 -1 14 124)" fill="white"/>
+<rect width="149" height="32" rx="1.4" transform="matrix(1 0 0 -1 14 164)" fill="white"/>
+<rect width="71" height="32" rx="1.4" transform="matrix(1 0 0 -1 171 124)" fill="white"/>
+<rect width="70" height="32" rx="1.4" transform="matrix(1 0 0 -1 93 124)" fill="white"/>
+<rect width="71" height="32" rx="1.4" transform="matrix(1 0 0 -1 171 164)" fill="white"/>
+<rect width="228" height="31.6408" rx="1.4" transform="matrix(1 0 0 -1 14 44.6409)" fill="white"/>
+<rect width="111" height="31" rx="1.4" transform="matrix(1 0 0 -1 14 84)" fill="white"/>
+</svg>
